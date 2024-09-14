@@ -1,0 +1,11 @@
+api:
+  key: ""
+  chat-endpoint: "https://api.openai.com/v1/chat/completions"
+chat_conf:
+  organization: ""
+  project: ""
+  model: ""
+  temperature: 0.7
+  role_user: ""
+  role_system: ""
+  system_role_instruction: ""
